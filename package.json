@@ -16,19 +16,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergiodxa/socket.io-redux.git"
+    "url": "git+https://github.com/PlatziDev/socket.io-redux.git"
   },
   "keywords": [
     "redux",
     "middleware",
     "socket.io"
   ],
-  "author": "Sergio Daniel Xalambrí <sergio@xalambri.com.ar> (http://sergio.xalambri.com.ar/)",
+  "author": "Sergio Daniel Xalambrí <sergio@xalambri.xyz> (http://sergio.xalambri.xyz/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sergiodxa/socket.io-redux/issues"
+    "url": "https://github.com/PlatziDev/socket.io-redux/issues"
   },
-  "homepage": "http://sergio.xalambri.com.ar/socket.io-redux",
+  "homepage": "https://github.com/PlatziDev/socket.io-redux#readme",
   "devDependencies": {
     "babel": "6.5.2",
     "babel-cli": "6.6.5",
