@@ -27,8 +27,12 @@ const action = {
   meta: {
     socket: {
       channel: 'add:todo',
+      namespace: 'ns',
+      room: 'room',
     },
   },
 };
 ```
 * `meta.socket.channel` define the socket.io channel to use to emit the action.
+* `meta.socket.namespace` (optional) use the given namespace, instead of the default, to emit the action.
+* `meta.socket.room` (optional) emit the action to the given room, instead of a global broadcast.
